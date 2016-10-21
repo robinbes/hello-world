@@ -1,2 +1,2 @@
 # hello-world
-jsu another repository
+just another repository
